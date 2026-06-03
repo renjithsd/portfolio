@@ -22,8 +22,9 @@ Features:
 - Object detection
 - GPS navigation assistance
 
-### Student Information System
-Software for managing student records and academic information.
+### Smart TC Portal
+Django application for uploading Excel student data,
+searching records and generating TC and CC certificates.
 
 ## Education
 Diploma in Computer Engineering
